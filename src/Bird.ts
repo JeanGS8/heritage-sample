@@ -1,4 +1,5 @@
-import { Animal } from "./Animal";
+import { Animal } from './Animal';
+
 abstract class Bird extends Animal{
     public canFly: boolean;
 
